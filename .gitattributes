@@ -1,0 +1,11 @@
+chunk_1.vbig filter=lfs diff=lfs merge=lfs -text
+chunk_10.vbig filter=lfs diff=lfs merge=lfs -text
+chunk_4.vbig filter=lfs diff=lfs merge=lfs -text
+chunk_6.vbig filter=lfs diff=lfs merge=lfs -text
+chunk_7.vbig filter=lfs diff=lfs merge=lfs -text
+chunk_9.vbig filter=lfs diff=lfs merge=lfs -text
+chunk_11.vbig filter=lfs diff=lfs merge=lfs -text
+chunk_2.vbig filter=lfs diff=lfs merge=lfs -text
+chunk_3.vbig filter=lfs diff=lfs merge=lfs -text
+chunk_5.vbig filter=lfs diff=lfs merge=lfs -text
+chunk_8.vbig filter=lfs diff=lfs merge=lfs -text
